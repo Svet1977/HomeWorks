@@ -1,0 +1,15 @@
+C:\Users\Svetlana\Documents\HomeWorks\HW004_четные в интервале\bin\Debug\net6.0\HW004_четные в интервале.exe
+C:\Users\Svetlana\Documents\HomeWorks\HW004_четные в интервале\bin\Debug\net6.0\HW004_четные в интервале.deps.json
+C:\Users\Svetlana\Documents\HomeWorks\HW004_четные в интервале\bin\Debug\net6.0\HW004_четные в интервале.runtimeconfig.json
+C:\Users\Svetlana\Documents\HomeWorks\HW004_четные в интервале\bin\Debug\net6.0\HW004_четные в интервале.dll
+C:\Users\Svetlana\Documents\HomeWorks\HW004_четные в интервале\bin\Debug\net6.0\HW004_четные в интервале.pdb
+C:\Users\Svetlana\Documents\HomeWorks\HW004_четные в интервале\obj\Debug\net6.0\HW004_четные в интервале.csproj.AssemblyReference.cache
+C:\Users\Svetlana\Documents\HomeWorks\HW004_четные в интервале\obj\Debug\net6.0\HW004_четные в интервале.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetlana\Documents\HomeWorks\HW004_четные в интервале\obj\Debug\net6.0\HW004_четные в интервале.AssemblyInfoInputs.cache
+C:\Users\Svetlana\Documents\HomeWorks\HW004_четные в интервале\obj\Debug\net6.0\HW004_четные в интервале.AssemblyInfo.cs
+C:\Users\Svetlana\Documents\HomeWorks\HW004_четные в интервале\obj\Debug\net6.0\HW004_четные в интервале.csproj.CoreCompileInputs.cache
+C:\Users\Svetlana\Documents\HomeWorks\HW004_четные в интервале\obj\Debug\net6.0\HW004_четные в интервале.dll
+C:\Users\Svetlana\Documents\HomeWorks\HW004_четные в интервале\obj\Debug\net6.0\refint\HW004_четные в интервале.dll
+C:\Users\Svetlana\Documents\HomeWorks\HW004_четные в интервале\obj\Debug\net6.0\HW004_четные в интервале.pdb
+C:\Users\Svetlana\Documents\HomeWorks\HW004_четные в интервале\obj\Debug\net6.0\HW004_четные в интервале.genruntimeconfig.cache
+C:\Users\Svetlana\Documents\HomeWorks\HW004_четные в интервале\obj\Debug\net6.0\ref\HW004_четные в интервале.dll
