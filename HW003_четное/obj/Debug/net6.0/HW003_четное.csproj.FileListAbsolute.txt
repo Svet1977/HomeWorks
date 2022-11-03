@@ -1,0 +1,15 @@
+C:\Users\Svetlana\Documents\HomeWorks\HW003_четное\obj\Debug\net6.0\HW003_четное.csproj.AssemblyReference.cache
+C:\Users\Svetlana\Documents\HomeWorks\HW003_четное\obj\Debug\net6.0\HW003_четное.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetlana\Documents\HomeWorks\HW003_четное\obj\Debug\net6.0\HW003_четное.AssemblyInfoInputs.cache
+C:\Users\Svetlana\Documents\HomeWorks\HW003_четное\obj\Debug\net6.0\HW003_четное.AssemblyInfo.cs
+C:\Users\Svetlana\Documents\HomeWorks\HW003_четное\obj\Debug\net6.0\HW003_четное.csproj.CoreCompileInputs.cache
+C:\Users\Svetlana\Documents\HomeWorks\HW003_четное\bin\Debug\net6.0\HW003_четное.exe
+C:\Users\Svetlana\Documents\HomeWorks\HW003_четное\bin\Debug\net6.0\HW003_четное.deps.json
+C:\Users\Svetlana\Documents\HomeWorks\HW003_четное\bin\Debug\net6.0\HW003_четное.runtimeconfig.json
+C:\Users\Svetlana\Documents\HomeWorks\HW003_четное\bin\Debug\net6.0\HW003_четное.dll
+C:\Users\Svetlana\Documents\HomeWorks\HW003_четное\bin\Debug\net6.0\HW003_четное.pdb
+C:\Users\Svetlana\Documents\HomeWorks\HW003_четное\obj\Debug\net6.0\HW003_четное.dll
+C:\Users\Svetlana\Documents\HomeWorks\HW003_четное\obj\Debug\net6.0\refint\HW003_четное.dll
+C:\Users\Svetlana\Documents\HomeWorks\HW003_четное\obj\Debug\net6.0\HW003_четное.pdb
+C:\Users\Svetlana\Documents\HomeWorks\HW003_четное\obj\Debug\net6.0\HW003_четное.genruntimeconfig.cache
+C:\Users\Svetlana\Documents\HomeWorks\HW003_четное\obj\Debug\net6.0\ref\HW003_четное.dll
