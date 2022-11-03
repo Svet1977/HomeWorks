@@ -1,8 +1,8 @@
-﻿int a = new Random().Next(1, 100);
+﻿int a = new Random().Next(-100, 100);
 Console.WriteLine(a);
-int b = new Random().Next(1, 100);
+int b = new Random().Next(-100, 100);
 Console.WriteLine(b);
-int c = new Random().Next(1, 100);
+int c = new Random().Next(-100, 100);
 Console.WriteLine(c);
 int max = a;
 if (a > max) max = a;
